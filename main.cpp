@@ -4,6 +4,7 @@
 
 using namespace std;
 
+
 bool error = false;
 double eps, R, a, b;
 
